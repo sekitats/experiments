@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>237628388394-lncfgep5n9mab1shh4le37hscc5kadqe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.237628388394-lncfgep5n9mab1shh4le37hscc5kadqe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBN2m9bTgOjZlyV6SvAQpR2v8BPaJiloAc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>237628388394</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lastresort.experiments</string>
+	<key>PROJECT_ID</key>
+	<string>experiment-b02cb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>experiment-b02cb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:237628388394:ios:c141f8aa00b1dbe369ff53</string>
+</dict>
+</plist>

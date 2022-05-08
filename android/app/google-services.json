@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237628388394",
+    "project_id": "experiment-b02cb",
+    "storage_bucket": "experiment-b02cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237628388394:android:858321909691642d69ff53",
+        "android_client_info": {
+          "package_name": "com.lastresort.experiments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237628388394-7i70punm3lebfjj1f6avp3f637mho6qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9zTuYz_whGnleaa-XzrjyEKl3up8PQoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237628388394-7i70punm3lebfjj1f6avp3f637mho6qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

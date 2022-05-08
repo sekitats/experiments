@@ -1,0 +1,3 @@
+class CupertinoConstants {
+  CupertinoConstants._();
+}
